@@ -1,0 +1,3 @@
+C:/Users/ettor/Desktop/cards_e_war/cmake-build-debug/CMakeFiles/cards_e_war.dir
+C:/Users/ettor/Desktop/cards_e_war/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ettor/Desktop/cards_e_war/cmake-build-debug/CMakeFiles/rebuild_cache.dir

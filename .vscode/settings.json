@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "string.h": "c",
+        "stdio.h": "c",
+        "c_x_w_potions": "cpp"
+    }
+}

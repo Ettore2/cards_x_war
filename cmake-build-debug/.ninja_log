@@ -1,0 +1,10 @@
+# ninja log v5
+135	474	7618252491511306	CMakeFiles/cards_e_war.dir/main.c.obj	f7cf71bb800706c1
+49	642	7618252492953501	CMakeFiles/cards_e_war.dir/c_x_w_potions.c.obj	535407a218200de4
+123	724	7618252493303551	CMakeFiles/cards_e_war.dir/list_test.c.obj	b7af19145aa8eb7d
+109	748	7618252493842121	CMakeFiles/cards_e_war.dir/genericList.c.obj	ab07107f3899fc98
+20	787	7618252494682386	CMakeFiles/cards_e_war.dir/c_x_w_field_objects.c.obj	62c4a125823a6354
+34	923	7618252495392341	CMakeFiles/cards_e_war.dir/c_x_w_map_events.c.obj	27d5fa0ebddf8576
+74	1004	7618252496919780	CMakeFiles/cards_e_war.dir/c_x_w_relics.c.obj	6136fb5cebad6411
+6	1042	7618252497274654	CMakeFiles/cards_e_war.dir/c_x_w_cards.c.obj	48b5f94579250c42
+91	1395	7618252500823558	CMakeFiles/cards_e_war.dir/cards_x_war_game.c.obj	a60536819b27db88
