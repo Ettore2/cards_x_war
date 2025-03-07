@@ -44,7 +44,6 @@ typedef struct fieldObject{
     int shealdAmmount;
     int teamId;
     int facingLeft;
-    int posX;
 }fieldObject_t;
 
 void drawFieldObjectSprite(int x, int y, int spriteId){
@@ -89,7 +88,6 @@ void drawFieldObjectSprite(int x, int y, int spriteId){
 void initializeFielObject(fieldObject_t *obj, int objId){
     obj->id = objId;
     obj->facingLeft = 1;
-    obj->posX = 0;
     obj->shealdAmmount = 0;
     if(obj->spritesIds != NULL){
         free(obj->spritesIds);
